@@ -1,1 +1,3 @@
-# Pazymiu_Skaiciuokle
+# Pažymių skaičiuoklė
+
+# Funkcijos
